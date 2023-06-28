@@ -3,6 +3,8 @@
 ## Description
 In this project I built a portfolio of my previous work as well as an introduction of myself and my contact information. I included a nav bar that will take you to one of four sections on the site, these include an About Me, Work, Contact me, and Resume links.
 
+https://dhm0010.github.io/my-portfolio/
+
 ## Usage
 ![Alt text](assets/images/my-portfolio-img.png)
 
