@@ -99,7 +99,13 @@ h2 {
 
 .other-images {
   display: flex;
-  justify-content: center;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+
+.other-images-2 {
+  display: flex;
+  justify-content: right;
   flex-wrap: wrap;
 }
 
@@ -109,6 +115,16 @@ h2 {
 }
 
 #other-images:hover {
+  background-color: aqua;
+  opacity: 0.75;
+}
+
+#other-images-2 {
+  border: 5px solid aqua;
+  margin: 5px;
+}
+
+#other-images-2:hover {
   background-color: aqua;
   opacity: 0.75;
 }
